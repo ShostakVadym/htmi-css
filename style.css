@@ -1,0 +1,152 @@
+body{
+	background-image: url(../images/2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family: Cramaten;
+}
+div.every{
+	border: white;
+	font-family: "Monotype Corsiva" Cursive;
+}
+html {
+    height: 100%;
+    }
+ .top{
+ 	padding-top: 3%;
+ 	padding-left: 30%;
+ 	font-size: 30px;
+ 	color: #17F1D7;
+ 	text-shadow: 1px 1px 2px black;
+ 	word-spacing: 1em;
+ 	font-family: Cramaten;
+ }
+ .img{
+    padding: 10px; 
+    margin-top: 20%;
+   
+ }
+ p{
+  
+
+    
+ }
+ img{
+ 	width: 200px; height: 200px; 
+ 	margin-left: 13%;
+ }
+ a{
+ 	color: #17F1D7;
+ }
+ .img2{
+ left: 40%;
+ }
+ .text1{
+ 	color: black;
+ 	font-size: 20px;
+ 	border:white;
+ 	ext-shadow: 1px 1px 2px black;
+ 	word-spacing: 9em;
+ 	margin-left: 11%;
+ 	border: white;
+
+ }
+ .text{
+ 	border: white; 
+    background: white; 
+ }
+ div.text2{
+ 	 direction: ltr; 
+    width: 300px; 
+    height: 300px; 
+    padding: 5px; 
+    margin-left: 8%;
+    color:black;
+    ext-shadow: 1px 1px 2px black;
+ }
+ div.text3{
+  direction: ltr; 
+    width: 300px; 
+    height: 300px; 
+    padding: 5px; 
+    margin-left: 40%;
+    color:black;
+    ext-shadow: 1px 1px 2px black;
+    position: absolute;
+    top: 610px;
+
+ }
+ div.text4{
+ 	direction: ltr; 
+    width: 300px; 
+    height: 300px; 
+    padding: 5px; 
+    margin-left: 70%;
+    color:black;
+    ext-shadow: 1px 1px 2px black;
+    position: absolute;
+    top: 610px;
+    
+ }
+ .op{
+ font-size: 20px;
+ margin-top: 20px;
+ margin-left: 45%;
+
+ }
+ .house1{
+ 	width:300px; 
+ 	height:300px;
+ 	position: absolute;
+ 	margin-left: 15%;
+
+ }
+.house{
+	margin-top: 20px;
+}
+.house2{
+ 	width:300px; 
+ 	height:300px;
+ 	position: absolute;
+ 	margin-left:36.5%;
+ }
+ .house3{
+ 	width:300px; 
+ 	height:300px;
+ 	position: absolute;
+ 	margin-left: 60%;
+ }
+ .location{
+ 	font-size: 20px;
+ 	/*margin-top: 360px;*/
+ 	margin-left: 45%;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ img.location1{
+ 	margin-left:0%;
+ 	width:1250px;
+ 	height: 400px;
+ 	position: absolute;
+ }
+ div.logo{
+ 	position: absolute;
+ 	argin-left: %;
+ 	top: 3%;
+ 	height: 200px;
+ 	width: 200px;
+ }
+ div.information{
+ 	margin-top: 405px;
+ 	margin-left: ;
+ 	background-color:#45D09E;
+ 	border:10px;
+ 	border: 4px double black;
+ 	border-color: #45D09E;
+ 	padding: 10px;
+ 	font-size: 20px;
+ 	font:color:white;
+
+ }
+ li{
+ 	font:color:white;
+
+ }
